@@ -1,0 +1,51 @@
+﻿@model IEnumerable<Day_5.Models.Employee>
+
+@{
+    ViewData["Title"] = "Employee List";
+    var departments = ViewData["Departments"] as Dictionary<int, string>;
+
+}
+
+<h2>Employee List</h2>
+
+<p>
+    <a asp-action="Create" class="btn btn-primary">Create Employee</a>
+    <a asp-controller="Department" asp-action="Create" class="btn btn-primary">Create Department</a>
+</p>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Age</th>
+            <th>City</th>
+            <th>Department</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Name</td>
+                <td>@item.Age</td>
+                <td>@item.City</td>
+                <td>
+                    @{
+                        if (item.DepartmentId.HasValue)
+                        {
+                            int deptId = item.DepartmentId.Value;
+                            departments.TryGetValue(deptId, out var deptName);
+                            @deptName
+                        }
+                    }
+                </td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.EmployeeId" class="btn btn-warning">Edit</a>
+                    <a asp-action="Delete" asp-route-id="@item.EmployeeId" class="btn btn-danger">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+

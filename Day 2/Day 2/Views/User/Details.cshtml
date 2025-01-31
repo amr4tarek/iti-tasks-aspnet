@@ -1,0 +1,14 @@
+﻿@{
+    ViewData["Title"] = "User Form Result";
+    var currentTime = DateTime.Now.ToString("F");
+}
+
+<h1>@ViewData["Title"]</h1>
+<p>Current Time: @currentTime</p>
+
+<div>
+    <p>Name: @TempData["Name"]</p>
+    <p>Age: @TempData["Age"]</p>
+    <p>Address: @TempData["Address"]</p>
+    <p>Gender: @TempData["Gender"]</p>
+</div>

@@ -1,0 +1,33 @@
+﻿@model Day_3.Models.Employee
+
+
+@{
+    ViewData["Title"] = "Employee Form";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+
+<form asp-action="EmployeeForm" method="post">
+    <div>
+        <label>Name</label>
+        <input asp-for="Name" />
+        <span asp-validation-for="Name"></span>
+    </div>
+    <div>
+        <label>Age</label>
+        <input asp-for="Age" />
+        <span asp-validation-for="Age"></span>
+    </div>
+    <div>
+        <label>City</label>
+        <input asp-for="City" />
+        <span asp-validation-for="City"></span>
+    </div>
+    <div>
+        <label>Department Id</label>
+        <input asp-for="DepartmentId" />
+        <span asp-validation-for="DepartmentId"></span>
+    </div>
+    <button type="submit">Submit</button>
+</form>

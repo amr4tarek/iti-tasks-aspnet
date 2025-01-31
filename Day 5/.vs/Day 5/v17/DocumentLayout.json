@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Folders\\ITI\\Day 5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{22064EF8-3DF3-47BB-8BD7-9DAFE652F9AC}|Day 4\\Day 5.csproj|c:\\folders\\iti\\day 5\\day 4\\models\\companydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22064EF8-3DF3-47BB-8BD7-9DAFE652F9AC}|Day 4\\Day 5.csproj|solutionrelative:day 4\\models\\companydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22064EF8-3DF3-47BB-8BD7-9DAFE652F9AC}|Day 4\\Day 5.csproj|c:\\folders\\iti\\day 5\\day 4\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{22064EF8-3DF3-47BB-8BD7-9DAFE652F9AC}|Day 4\\Day 5.csproj|solutionrelative:day 4\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22064EF8-3DF3-47BB-8BD7-9DAFE652F9AC}|Day 4\\Day 5.csproj|c:\\folders\\iti\\day 5\\day 4\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{22064EF8-3DF3-47BB-8BD7-9DAFE652F9AC}|Day 4\\Day 5.csproj|solutionrelative:day 4\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22064EF8-3DF3-47BB-8BD7-9DAFE652F9AC}|Day 4\\Day 5.csproj|c:\\folders\\iti\\day 5\\day 4\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{22064EF8-3DF3-47BB-8BD7-9DAFE652F9AC}|Day 4\\Day 5.csproj|solutionrelative:day 4\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22064EF8-3DF3-47BB-8BD7-9DAFE652F9AC}|Day 4\\Day 5.csproj|c:\\folders\\iti\\day 5\\day 4\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22064EF8-3DF3-47BB-8BD7-9DAFE652F9AC}|Day 4\\Day 5.csproj|solutionrelative:day 4\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22064EF8-3DF3-47BB-8BD7-9DAFE652F9AC}|Day 4\\Day 5.csproj|C:\\Folders\\ITI\\Day 5\\day 4\\resource\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{22064EF8-3DF3-47BB-8BD7-9DAFE652F9AC}|Day 4\\Day 5.csproj|solutionrelative:day 4\\resource\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22064EF8-3DF3-47BB-8BD7-9DAFE652F9AC}|Day 4\\Day 5.csproj|c:\\folders\\iti\\day 5\\day 4\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22064EF8-3DF3-47BB-8BD7-9DAFE652F9AC}|Day 4\\Day 5.csproj|solutionrelative:day 4\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CompanyDbContext.cs",
+              "DocumentMoniker": "C:\\Folders\\ITI\\Day 5\\Day 4\\Models\\CompanyDbContext.cs",
+              "RelativeDocumentMoniker": "Day 4\\Models\\CompanyDbContext.cs",
+              "ToolTip": "C:\\Folders\\ITI\\Day 5\\Day 4\\Models\\CompanyDbContext.cs",
+              "RelativeToolTip": "Day 4\\Models\\CompanyDbContext.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAYwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T22:35:42.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Folders\\ITI\\Day 5\\Day 4\\appsettings.json",
+              "RelativeDocumentMoniker": "Day 4\\appsettings.json",
+              "ToolTip": "C:\\Folders\\ITI\\Day 5\\Day 4\\appsettings.json",
+              "RelativeToolTip": "Day 4\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-31T22:35:38.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Folders\\ITI\\Day 5\\Day 4\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Day 4\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Folders\\ITI\\Day 5\\Day 4\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Day 4\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAACIAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-29T18:10:33.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Folders\\ITI\\Day 5\\Day 4\\Views\\Employee\\Create.cshtml",
+              "RelativeDocumentMoniker": "Day 4\\Views\\Employee\\Create.cshtml",
+              "ToolTip": "C:\\Folders\\ITI\\Day 5\\Day 4\\Views\\Employee\\Create.cshtml",
+              "RelativeToolTip": "Day 4\\Views\\Employee\\Create.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-29T18:10:15.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Folders\\ITI\\Day 5\\Day 4\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "Day 4\\Models\\Employee.cs",
+              "ToolTip": "C:\\Folders\\ITI\\Day 5\\Day 4\\Models\\Employee.cs",
+              "RelativeToolTip": "Day 4\\Models\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T18:09:43.542Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Folders\\ITI\\Day 5\\Day 4\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "Day 4\\Models\\Department.cs",
+              "ToolTip": "C:\\Folders\\ITI\\Day 5\\Day 4\\Models\\Department.cs",
+              "RelativeToolTip": "Day 4\\Models\\Department.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T18:08:51.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Resources.resx",
+              "DocumentMoniker": "C:\\Folders\\ITI\\Day 5\\Day 4\\Resource\\Resources.resx",
+              "RelativeDocumentMoniker": "Day 4\\Resource\\Resources.resx",
+              "ToolTip": "C:\\Folders\\ITI\\Day 5\\Day 4\\Resource\\Resources.resx",
+              "RelativeToolTip": "Day 4\\Resource\\Resources.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-12-29T18:08:31.506Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

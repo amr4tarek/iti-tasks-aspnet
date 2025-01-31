@@ -1,0 +1,150 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\iti\\MVC Projects\\Day 3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3A3A51AF-2398-4481-98AF-DC6EEBD0A839}|Day 3\\Day 3.csproj|c:\\iti\\mvc projects\\day 3\\day 3\\models\\companydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A3A51AF-2398-4481-98AF-DC6EEBD0A839}|Day 3\\Day 3.csproj|solutionrelative:day 3\\models\\companydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A3A51AF-2398-4481-98AF-DC6EEBD0A839}|Day 3\\Day 3.csproj|c:\\iti\\mvc projects\\day 3\\day 3\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A3A51AF-2398-4481-98AF-DC6EEBD0A839}|Day 3\\Day 3.csproj|solutionrelative:day 3\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A3A51AF-2398-4481-98AF-DC6EEBD0A839}|Day 3\\Day 3.csproj|c:\\iti\\mvc projects\\day 3\\day 3\\views\\employee\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3A3A51AF-2398-4481-98AF-DC6EEBD0A839}|Day 3\\Day 3.csproj|solutionrelative:day 3\\views\\employee\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A3A51AF-2398-4481-98AF-DC6EEBD0A839}|Day 3\\Day 3.csproj|c:\\iti\\mvc projects\\day 3\\day 3\\views\\employee\\employeeform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3A3A51AF-2398-4481-98AF-DC6EEBD0A839}|Day 3\\Day 3.csproj|solutionrelative:day 3\\views\\employee\\employeeform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A3A51AF-2398-4481-98AF-DC6EEBD0A839}|Day 3\\Day 3.csproj|c:\\iti\\mvc projects\\day 3\\day 3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A3A51AF-2398-4481-98AF-DC6EEBD0A839}|Day 3\\Day 3.csproj|solutionrelative:day 3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A3A51AF-2398-4481-98AF-DC6EEBD0A839}|Day 3\\Day 3.csproj|c:\\iti\\mvc projects\\day 3\\day 3\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A3A51AF-2398-4481-98AF-DC6EEBD0A839}|Day 3\\Day 3.csproj|solutionrelative:day 3\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A3A51AF-2398-4481-98AF-DC6EEBD0A839}|Day 3\\Day 3.csproj|c:\\iti\\mvc projects\\day 3\\day 3\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3A3A51AF-2398-4481-98AF-DC6EEBD0A839}|Day 3\\Day 3.csproj|solutionrelative:day 3\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A3A51AF-2398-4481-98AF-DC6EEBD0A839}|Day 3\\Day 3.csproj|c:\\iti\\mvc projects\\day 3\\day 3\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A3A51AF-2398-4481-98AF-DC6EEBD0A839}|Day 3\\Day 3.csproj|solutionrelative:day 3\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\iti\\MVC Projects\\Day 3\\Day 3\\Program.cs",
+              "RelativeDocumentMoniker": "Day 3\\Program.cs",
+              "ToolTip": "C:\\iti\\MVC Projects\\Day 3\\Day 3\\Program.cs",
+              "RelativeToolTip": "Day 3\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T12:23:02.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CompanyDbContext.cs",
+              "DocumentMoniker": "C:\\iti\\MVC Projects\\Day 3\\Day 3\\Models\\CompanyDbContext.cs",
+              "RelativeDocumentMoniker": "Day 3\\Models\\CompanyDbContext.cs",
+              "ToolTip": "C:\\iti\\MVC Projects\\Day 3\\Day 3\\Models\\CompanyDbContext.cs",
+              "RelativeToolTip": "Day 3\\Models\\CompanyDbContext.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAIA1wBcAAACFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T12:04:23.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\iti\\MVC Projects\\Day 3\\Day 3\\appsettings.json",
+              "RelativeDocumentMoniker": "Day 3\\appsettings.json",
+              "ToolTip": "C:\\iti\\MVC Projects\\Day 3\\Day 3\\appsettings.json",
+              "RelativeToolTip": "Day 3\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-28T11:32:59.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\iti\\MVC Projects\\Day 3\\Day 3\\Views\\Employee\\Details.cshtml",
+              "RelativeDocumentMoniker": "Day 3\\Views\\Employee\\Details.cshtml",
+              "ToolTip": "C:\\iti\\MVC Projects\\Day 3\\Day 3\\Views\\Employee\\Details.cshtml",
+              "RelativeToolTip": "Day 3\\Views\\Employee\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-28T11:05:24.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeForm.cshtml",
+              "DocumentMoniker": "C:\\iti\\MVC Projects\\Day 3\\Day 3\\Views\\Employee\\EmployeeForm.cshtml",
+              "RelativeDocumentMoniker": "Day 3\\Views\\Employee\\EmployeeForm.cshtml",
+              "ToolTip": "C:\\iti\\MVC Projects\\Day 3\\Day 3\\Views\\Employee\\EmployeeForm.cshtml",
+              "RelativeToolTip": "Day 3\\Views\\Employee\\EmployeeForm.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAoAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-28T11:05:05.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\iti\\MVC Projects\\Day 3\\Day 3\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "Day 3\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\iti\\MVC Projects\\Day 3\\Day 3\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "Day 3\\Controllers\\EmployeeController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwBQAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T10:59:21.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\iti\\MVC Projects\\Day 3\\Day 3\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "Day 3\\Models\\Employee.cs",
+              "ToolTip": "C:\\iti\\MVC Projects\\Day 3\\Day 3\\Models\\Employee.cs",
+              "RelativeToolTip": "Day 3\\Models\\Employee.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAUwBMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T10:44:30.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\iti\\MVC Projects\\Day 3\\Day 3\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "Day 3\\Models\\Department.cs",
+              "ToolTip": "C:\\iti\\MVC Projects\\Day 3\\Day 3\\Models\\Department.cs",
+              "RelativeToolTip": "Day 3\\Models\\Department.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T10:44:28.12Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

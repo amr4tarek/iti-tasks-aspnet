@@ -1,0 +1,30 @@
+C:\iti\MVC Projects\Day 2\Day 2\bin\Debug\net8.0\appsettings.Development.json
+C:\iti\MVC Projects\Day 2\Day 2\bin\Debug\net8.0\appsettings.json
+C:\iti\MVC Projects\Day 2\Day 2\bin\Debug\net8.0\Day 2.staticwebassets.runtime.json
+C:\iti\MVC Projects\Day 2\Day 2\bin\Debug\net8.0\Day 2.exe
+C:\iti\MVC Projects\Day 2\Day 2\bin\Debug\net8.0\Day 2.deps.json
+C:\iti\MVC Projects\Day 2\Day 2\bin\Debug\net8.0\Day 2.runtimeconfig.json
+C:\iti\MVC Projects\Day 2\Day 2\bin\Debug\net8.0\Day 2.dll
+C:\iti\MVC Projects\Day 2\Day 2\bin\Debug\net8.0\Day 2.pdb
+C:\iti\MVC Projects\Day 2\Day 2\obj\Debug\net8.0\Day 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\iti\MVC Projects\Day 2\Day 2\obj\Debug\net8.0\Day 2.AssemblyInfoInputs.cache
+C:\iti\MVC Projects\Day 2\Day 2\obj\Debug\net8.0\Day 2.AssemblyInfo.cs
+C:\iti\MVC Projects\Day 2\Day 2\obj\Debug\net8.0\Day 2.csproj.CoreCompileInputs.cache
+C:\iti\MVC Projects\Day 2\Day 2\obj\Debug\net8.0\Day 2.MvcApplicationPartsAssemblyInfo.cache
+C:\iti\MVC Projects\Day 2\Day 2\obj\Debug\net8.0\Day 2.RazorAssemblyInfo.cache
+C:\iti\MVC Projects\Day 2\Day 2\obj\Debug\net8.0\Day 2.RazorAssemblyInfo.cs
+C:\iti\MVC Projects\Day 2\Day 2\obj\Debug\net8.0\staticwebassets.build.json
+C:\iti\MVC Projects\Day 2\Day 2\obj\Debug\net8.0\staticwebassets.development.json
+C:\iti\MVC Projects\Day 2\Day 2\obj\Debug\net8.0\staticwebassets\msbuild.Day 2.Microsoft.AspNetCore.StaticWebAssets.props
+C:\iti\MVC Projects\Day 2\Day 2\obj\Debug\net8.0\staticwebassets\msbuild.build.Day 2.props
+C:\iti\MVC Projects\Day 2\Day 2\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Day 2.props
+C:\iti\MVC Projects\Day 2\Day 2\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Day 2.props
+C:\iti\MVC Projects\Day 2\Day 2\obj\Debug\net8.0\staticwebassets.pack.json
+C:\iti\MVC Projects\Day 2\Day 2\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\iti\MVC Projects\Day 2\Day 2\obj\Debug\net8.0\scopedcss\bundle\Day 2.styles.css
+C:\iti\MVC Projects\Day 2\Day 2\obj\Debug\net8.0\scopedcss\projectbundle\Day 2.bundle.scp.css
+C:\iti\MVC Projects\Day 2\Day 2\obj\Debug\net8.0\Day 2.dll
+C:\iti\MVC Projects\Day 2\Day 2\obj\Debug\net8.0\refint\Day 2.dll
+C:\iti\MVC Projects\Day 2\Day 2\obj\Debug\net8.0\Day 2.pdb
+C:\iti\MVC Projects\Day 2\Day 2\obj\Debug\net8.0\Day 2.genruntimeconfig.cache
+C:\iti\MVC Projects\Day 2\Day 2\obj\Debug\net8.0\ref\Day 2.dll
